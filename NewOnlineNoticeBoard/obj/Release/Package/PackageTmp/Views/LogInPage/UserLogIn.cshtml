@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "LoginDisplay";
+}
+
+@using (Html.BeginForm("UserLogIn", "LogInPage", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("EmailId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("emailid", null, new { @class = "form-control" , required = "required"})
+                <label class="alert-danger">@ViewBag.useremail</label>
+                @*@Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Password", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Password("Password", null, new { @class = "form-control" , required = "required" })
+                <label class="alert-danger">@ViewBag.pass</label>
+                @*@Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="LogIn" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

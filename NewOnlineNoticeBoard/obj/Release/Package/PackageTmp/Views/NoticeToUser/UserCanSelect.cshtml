@@ -1,0 +1,293 @@
+﻿
+@{
+    ViewBag.Title = "UserCanSelect";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>UserCanSelect</h2>
+@using (Html.BeginForm("DisplayFileNotice", "NoticeToUser", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <div class="form-group">
+        <label class="control-label col-md-2">Department</label>
+        <div class="col-lg-10">
+            <select name="Dept" class="form-control">
+                <option value="CE">CE</option>
+                <option value="EC">EC</option>
+                <option value="IT">IT</option>
+                <option value="MH">MH</option>
+                <option value="CH">CH</option>
+                <option value="IC">IC</option>
+            </select>
+        </div>
+    </div>
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.Label("Date", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBox("Date", null, new { @type = "date", @class = "form-control", required = "required" })
+            @*@Html.ValidationMessageFor(model => model.date, "", new { @class = "text-danger" })*@
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Show Notices" class="btn btn-default" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10" style="color:red">
+            @ViewBag.err
+        </div>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayName("Department:CE")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["cen"] as IEnumerable<NewOnlineNoticeBoard.Models.CE_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <th>@Html.DisplayName("Department:IT")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["itn"] as IEnumerable<NewOnlineNoticeBoard.Models.IT_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <th>@Html.DisplayName("Department:EC")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["ecn"] as IEnumerable<NewOnlineNoticeBoard.Models.EC_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <th>@Html.DisplayName("Department:MH")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["mhn"] as IEnumerable<NewOnlineNoticeBoard.Models.MH_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <th>@Html.DisplayName("Department:CH")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["chn"] as IEnumerable<NewOnlineNoticeBoard.Models.CH_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <th>@Html.DisplayName("Department:IC")</th>
+        </tr>
+        <tr>
+            <th>
+                @Html.DisplayName("TitleOfNotice")
+            </th>
+            <th>
+                @Html.DisplayName("NoticeType")
+            </th>
+            <th>
+                @Html.DisplayName("FileName")
+            </th>
+            <th>
+                @Html.DisplayName("date")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewData["icn"] as IEnumerable<NewOnlineNoticeBoard.Models.IC_Notice>)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TitleOfNotice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    <a href="Download?file=@item.FileName">Download</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>
+}
+

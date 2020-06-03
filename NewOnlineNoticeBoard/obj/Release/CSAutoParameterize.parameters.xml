@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-NewOnlineNoticeBoard-20181013043525.mdf;Initial Catalog=aspnet-NewOnlineNoticeBoard-20181013043525;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\SEM\ 5\\WDDN\\MVC_Project\\NewOnlineNoticeBoard\\NewOnlineNoticeBoard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="NewONB-Web.config Connection String" description="NewONB Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDb)\MSSQLLocalDB; AttachDbFilename=|DataDirectory|\.mdf; initial catalog=NewOnlineNoticeBoard.NewONB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\SEM\ 5\\WDDN\\MVC_Project\\NewOnlineNoticeBoard\\NewOnlineNoticeBoard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NewONB']/@connectionString" />
+  </parameter>
+</parameters>

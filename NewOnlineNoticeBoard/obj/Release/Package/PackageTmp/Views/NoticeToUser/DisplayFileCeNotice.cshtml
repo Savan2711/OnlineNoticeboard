@@ -1,0 +1,52 @@
+﻿@model IEnumerable<NewOnlineNoticeBoard.Models.CE_Notice>
+
+@{
+    ViewBag.Title = "DisplayFileNotice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DisplayFileNotice</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TitleOfNotice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoticeType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FileName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TitleOfNotice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoticeType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FileName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                <a href="Download?file=@item.FileName">Download</a>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td>
+            <a href="~/NoticeToUser/UserCanSelect" class="btn btn-success">View All Notices</a>
+        </td>
+    </tr>
+</table>

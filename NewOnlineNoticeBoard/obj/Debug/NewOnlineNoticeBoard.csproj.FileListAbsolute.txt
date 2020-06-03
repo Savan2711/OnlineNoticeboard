@@ -1,0 +1,178 @@
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\ApplicationInsights.config
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\csc.exe
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\vbc.exe
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.dll.config
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.pdb
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Antlr3.Runtime.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.SqlServer.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Web.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.ApplicationInsights.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Newtonsoft.Json.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Owin.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Helpers.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Mvc.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Optimization.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Razor.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Razor.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\WebGrease.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Web.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Helpers.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Mvc.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Optimization.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Razor.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Razor.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Antlr3.Runtime.pdb
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Newtonsoft.Json.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.SqlServer.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.dll
+c:\users\pc\desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.pdb
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.InitialCreate.resources
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init.resources
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init1.resources
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init2.resources
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init3.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\ApplicationInsights.config
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\csc.exe
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\System.Collections.Immutable.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\System.Reflection.Metadata.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\vbc.exe
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\VBCSCompiler.exe
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\roslyn\VBCSCompiler.exe.config
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.dll.config
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\NewOnlineNoticeBoard.pdb
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Antlr3.Runtime.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.SqlServer.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.DependencyCollector.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Web.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.WindowsServer.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.ApplicationInsights.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Google.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Web.Infrastructure.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Newtonsoft.Json.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Owin.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Helpers.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Mvc.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Optimization.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Razor.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Deployment.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Razor.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\WebGrease.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.DependencyCollector.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.Web.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AI.WindowsServer.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.ApplicationInsights.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Helpers.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Mvc.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Optimization.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.Razor.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Deployment.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\System.Web.WebPages.Razor.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Antlr3.Runtime.pdb
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Newtonsoft.Json.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\EntityFramework.SqlServer.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Google.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csprojAssemblyReference.cache
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.InitialCreate.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init1.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init2.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.Migrations.init3.resources
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csproj.GenerateResource.cache
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csproj.CoreCompileInputs.cache
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.csproj.CopyComplete
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.dll
+F:\SEM 5\WDDN\MVC_Project\NewOnlineNoticeBoard\NewOnlineNoticeBoard\obj\Debug\NewOnlineNoticeBoard.pdb

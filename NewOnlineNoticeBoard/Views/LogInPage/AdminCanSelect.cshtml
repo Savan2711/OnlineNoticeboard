@@ -1,0 +1,60 @@
+﻿@model NewOnlineNoticeBoard.Models.TypeOfNotice
+
+@{
+    ViewBag.Title = "AdminCanSelect";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AdminCanSelect</h2>
+
+@using (Html.BeginForm("DisplayNotice", "LogInPage", FormMethod.Post, new { enctype = "multipart/form-data",data_ajax = "false" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Notice Title", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("Title","",new { @class="form-control" , required="required"})
+                @*@Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Date", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("Date",null, new {@type="date", @class = "form-control" , required="required" })
+                @*@Html.ValidationMessageFor(model => model.date, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("NoticeType", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("NoticeType",(IEnumerable<SelectListItem>)ViewData["Notices"],htmlAttributes: new { @class = "form-control" , required="required"})
+                @Html.ActionLink("Add New Type","Create","TypeOfNotice",new { DeptOfAdmin = ViewBag.DeptOfAdmin },new { @class = "btn btn-primary"})
+                @*@Html.ValidationMessageFor(model => model.NoticeType, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+                @Html.Label("File",new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.TextBox("file","", new { type = "file" })*@
+                    <input type="file" name="file" required/>
+                    @*@Html.ValidationMessageFor(model => model.FileName, "", new { @class = "text-danger" })*@
+                </div>
+            </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Add" class="btn btn-default" />
+                @Html.ActionLink("See Notices", "DisplayNotice", "LogInPage", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+}
