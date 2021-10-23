@@ -1,0 +1,37 @@
+Models:
+  CE_Notice
+  CH_Notice
+  EC_Notice
+  IC_Notice
+  IT_Notice
+  TypeOfNotice
+
+CE_Notice(NoticeId, TitleOfNotice, NoticeType, date, FileName)
+
+select * from CE_Notice
+delete * from CENotice where NoticeId == <id>
+
+CH_Notice(NoticeId, TitleOfNotice, NoticeType, date, FileName)
+
+select * from CH_Notice
+delete * from CH_Notice where NoticeId == <id>
+
+EC_Notice(NoticeId, TitleOfNotice, NoticeType, date, FileName)
+
+select * from EC_Notice
+delete * from EC_Notice where NoticeId == <id>
+
+IC_Notice(NoticeId, TitleOfNotice, NoticeType, date, FileName)
+
+select * from IC_Notice
+delete * from IC_Notice where NoticeId == <id>
+
+IT_Notice(NoticeId, TitleOfNotice, NoticeType, date, FileName)
+
+select * from IT_Notice
+delete * from IT_Notice where NoticeId == <id>
+
+TypeOfNotice(NoticeType, Department)
+
+select * from TypeOfNotice
+delete * from TypeOfNotice where NoticeType == <id>
